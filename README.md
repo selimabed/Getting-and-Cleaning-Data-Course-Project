@@ -30,5 +30,5 @@ How to reproduce this project:
     
 Outputs :
 
-    Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt (tab-delimited text)
+    Tidy dataset file averages_data.txt (tab-delimited text)
     Codebook file codebook.md (Markdown)
